@@ -15,12 +15,9 @@
 - evolution_pipeline.ipynb: Coming-of-age novels are defined by the evolution of the main character from a young girl to a grown woman. This pipeline explores whether we see this same progression in both the literary canon novels and the fanfiction texts.
 - LDA Algorithm Spark.ipynb: looking at the full text of the classics file and understanding most frequent topics by count.
 - LDA Algorithm.ipynb: looking at classics by lines and understanding most frequent topics by count.
-- LDA Algorithm Stuff.ipynb:
 - LDA Classics Algorithm.ipynb: looking at most frequent topics among classics by lines and term weights
 - LDA FanFic Algorithm.ipynb: looking at most frequent topics by count among fanfics
-- LDA FanFic Algorithm Stuff.ipynb: 
-- LDA FanFic Algorithm Spark.ipynb: 
-- Removing Proper Nouns FanFic.ipynb:
-- Removing Proper Nouns.ipynb:
-- Remove Proper Nouns.ipynb: 
-- Testing Why Proper Nouns Don't Work:
+- LDA FanFic Algorithm Spark.ipynb: looking at the full text of the fanfics file and understanding most frequent topics by count
+- Removing Proper Nouns FanFic.ipynb: removing the proper nouns from fanfics file and looking at the algorithm results by term weights
+- Removing Proper Nouns.ipynb: removing the proper nouns from classics file and looking at the algorithm results by term weights.
+- Remove Proper Nouns.ipynb: prototype of the removing nouns algorithm
