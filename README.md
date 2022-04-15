@@ -8,6 +8,7 @@
 - /resources:
 - DC_Project_ClassicsVsFanfiction_Preprocessing.ipynb:
 - DC_Project_ClassicsVsFanfiction_Sentiment.ipynb:
+- DC_Project_ClassicsVsFanfiction_Sentiment_2.ipynb: Finds the Standardized Afinn Score for tone of the books, and classifies if the books are racist, sexist or neutral.
 - DC_Project_ClassicsVsFanfiction_tfidf_pipeline.ipynb:
 - proj_gutenberg_read-data.py: Reads all classic files within '\data\classic_literature' and generates a dataframe where each row is one book.
 - proj_gutenberg_read-data.ipynb: Jupyter notebook version of 'proj_gutenberg_read-data.py'
