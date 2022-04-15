@@ -1,8 +1,8 @@
 # FanFicVsClassicLiterature
 - /data: includes the files that we used for our analysis.  
         - fanfics_raw.csv: the raw fanfics, their ids and their label.  
-        - classics_raw.csv: the raw read in files from the classics. 
-        - classics_clean.csv: the preprocessed classics files. 
+        - classics_raw.csv: the raw read in files from the classics.   
+        - classics_clean.csv: the preprocessed classics files.   
         - /classic_literature: the text files, separated by id of the Project Gutenberg texts.  
         - /fanfiction: the text files, separated by id of the Archive of Our Own texts.  
         
